@@ -1396,7 +1396,7 @@ window.BMAP_AUTHENTIC_KEY = "ZhLk4nT0kNMRRT9Dtz9BYgRjghS7xO9g"; (function() {
     };
     z.U_ = {
         "0": {
-            proto: "http://",
+            proto: "https://",
             domain: z.XX
         },
         1 : {
